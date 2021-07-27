@@ -1,0 +1,40 @@
+.pub-container{
+ width: 100%;
+   height: 100%;
+   box-sizing: border-box;
+}
+.pub-header{
+  width: 100%;
+  height: 72px;
+  line-height: 92px;
+  background-color: #dcdcdc ;
+  text-align: center;
+}
+.row{
+    width: 100%;
+}
+.public-row{
+  border: none;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 12px;
+  border-bottom: 1px solid #dcdcdc;
+  overflow: hidden;
+}
+.info{
+  text-align: center;
+  font-size: 12px;
+  border-bottom: 1px solid #dcdcdc;
+}
+.info p{
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+.info span{
+  margin-right: 15px;
+}
+.van-btn{
+   display: flex;
+   justify-content: space-around;
+   margin: 16px;  
+}
